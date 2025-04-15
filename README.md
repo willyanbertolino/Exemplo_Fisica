@@ -10,7 +10,7 @@ jogador deve correr para alcançar a bola antes que esta toque o chão. Também 
 
 ## 📸 Preview da interface
 
-<img src="calculadora.png" alt="Calculadora em funcionamento" width="400"/>
+<img src="/calculadora.png" alt="Calculadora em funcionamento" width="400"/>
 
 ---
 
