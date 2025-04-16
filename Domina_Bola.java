@@ -12,9 +12,11 @@ public class Domina_Bola implements ActionListener {
     // Variáveis globais
     JFrame frame;
     JButton playBtn, resetBtn;
-    JTextField initSpeedInput, angleInput, distanceInput, finalDistanceOutput, timeOutput, speedOutput;
+    JTextField initSpeedInput, angleInput, distanceInput,
+            finalDistanceOutput, timeOutput, speedOutput;
     Double initSpeed, angle, distance;
-    String playerDistanceDescription, playerTimeDescription, playerSpeedDescription;
+    String playerDistanceDescription, playerTimeDescription,
+            playerSpeedDescription;
 
     // Construtor
     Domina_Bola() {
